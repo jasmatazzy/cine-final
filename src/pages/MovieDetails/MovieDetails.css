@@ -1,0 +1,5 @@
+.details-container{
+    margin-top: var(--header-height);
+    min-height: 100vh;
+    color: var(--white);
+}
